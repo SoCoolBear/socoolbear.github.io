@@ -1,8 +1,8 @@
 # Site
 title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
-locale:             en_US
+bio:                'Massively'
+description:        "Massively"
+locale:             ko_KR
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -34,16 +34,16 @@ sass:
 disqus_shortname:   default
 
 # Social
-analytics-id:       "default"
-twitter:            default
-facebook:           default
-instagram:          default
-github:             default
+analytics-id:       "socoolbear"
+twitter:            socoolbear
+facebook:           socoolbear
+instagram:          socoolbear
+github:             socoolbear
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
-email:              info@default.com
+location:           Gwanak-gu, Seoul, Republic of Korea
+phone:              xxx
+email:              socoolbear@gmail.com
 
 # Gems
 gems:
@@ -57,7 +57,7 @@ paginate: 6
 paginate_path: "/blog/page:num/"
 
 jekyll-mentions:
-    base_url: https://github.com
+    base_url: https://github.com/socoolbear
 
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
