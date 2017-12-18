@@ -11,7 +11,7 @@ sitemap:
 
 <span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
 
-개발, DIY, ETC 관련한 소중한 기억과 기록을 공유하도록 하겠습니다.
+개발, DIY, ETC 관련한 소중한 기억과 기록을 공유합니다.
 
 <br>
 <br>
