@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My .vimrc"
-date:   2017-12-18
+date:   2018-02-28
 excerpt: ""
 ---
 
