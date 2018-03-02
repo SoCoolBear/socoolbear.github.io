@@ -7,3 +7,13 @@
   <li class="{% if page.url contains '/elements/' %} active {% endif %}"><a href="{{ "/elements/" | absolute_url }}">Elements Reference</a></li>
   -->
 </ul>
+
+<ul>
+  <li>
+    <form action="/search.html" method="get">
+      <label for="search_box">Search</label>
+      <input type="text" id="search_box" name="query">
+      <input type="submit" value="search">
+    </form>
+  </li>
+</ul>
