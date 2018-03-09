@@ -13,34 +13,55 @@ excerpt: "6개월 동안 어떤 언어도 배울 수 있는 방법 - 크리스 �
 
 ## 5가지 원칙
 
-### 1. 자신과 연관 있어야 한다
-- 주목, 의미, 연관, 기억(image link)  
+### 1. 연관
+> Principle #1:  
+> Focus on language content that is relevant to you
+
+`주목, 의미, 연관, 기억`  
  
 자신과 연관 있는 것을 기억한다.   
 자신의 목표와 연관있다면 더 잘 기억하게된다.
 
-### 2. 도구로써 사용
+### 2. 도구
+> Principle #2:  
+> Use your New language as a Tool to Communicate... From Day I:week
+
 언어를 도구로써 사용해야 한다.  
 첫날 부터 즉시 소통하라.  
 마치 어린 아이들 처럼..
 
 ### 3. 이해
+> Principle #3:  
+> When first Understand to Message,   
+> you will unconsciously Aquire the Language!!  
+
 메시지를 이해 했을 때, 무의식적으로 그 언어를 배운다.
 
 ### 4. 훈련
-언어는 많은 양의 지식을 쌓는 행위보단, 생리적 훈련에 가깝다.  
+> Principle #4:  
+> Physiological Traning
+
+언어는 많은 양의 지식을 쌓는 행위보단, 생리학적 훈련에 가깝다.  
 말하기를 많이 하여 얼굴 근육을 통해 수련해야 한다.
 
 ### 5. 심리 생리학적 상태
-슬픔, 분노, 걱정 또는 화를 내면 학습이 되지 않는다. 
+> Principle #5:
+> Psycho-physiological State Matters!
+
+슬픔, 분노, 걱정 또는 화를 내면 배울수 없다.  
+그걸로 끝이다.
 모호한 것에 대해 관대해 져야 한다.  
-이해되지 않는 단어는 넘어 갈수 있는 관대함이 필요하다.
+이해되지 않는 단어는 넘어 갈수 있는 관대함이 필요하다.  
+
 ****
 
 ## 7가지 행동
 
-### 1.Listen A Lot!
-Brain Soaking - 두뇌 담그기 - 包脑子 :포뇌자
+### 1. 많이 들으세요.
+> Action #1:  
+> Listen A Lot!  
+
+[!Brain Soaking - 두뇌 담그기 - 包脑子 :포뇌자]()
 
 ### 2. 단어보다 의미를 먼저 이해하라!
 이해 했을때 더 많은 것을 기억할수 있다. 
