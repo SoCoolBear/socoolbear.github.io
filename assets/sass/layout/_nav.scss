@@ -79,6 +79,18 @@
 			}
 		}
 
+        form {
+			&.search {
+                display: flex;
+                margin: 0.5rem;
+                input {
+                    display: block;
+                    width : 10em;
+                    float: left;
+                }
+			}
+        }
+
 		@include breakpoint(medium) {
 			display: none;
 		}
