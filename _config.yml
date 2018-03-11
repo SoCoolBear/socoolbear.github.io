@@ -11,12 +11,11 @@ defaults:
     path: ''
     type: posts
   values:
-#    permalink: "/blog/:title/"
+    permalink: "/blog/:title/"
     layout: post
     author:
-
 # Jekyll
-#permalink:          /blog/:title/
+permalink:          /blog/:title/ #avoid duplicate _site/blog/ directory because `permalink` on befor line.
 markdown:           kramdown
 highlighter:        rouge
 kramdown:
