@@ -3,6 +3,7 @@ layout: post
 title:  "My .vimrc"
 date:   2018-02-28
 excerpt: ""
+categories: tool
 ---
 
 가끔씩 사용할때를 대비해 기록해 놓습니다.

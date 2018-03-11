@@ -3,6 +3,8 @@ layout: post
 title:  "어떤 언어도 배울 수 있는 방법"
 date:   2018-03-02
 excerpt: "6개월 동안 어떤 언어도 배울 수 있는 방법 - 크리스 론스데일(Chris Lonsdale)"
+categories: english
+tags : [english, study]
 ---
 
 ### Table of Contents

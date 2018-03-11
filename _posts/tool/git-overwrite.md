@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "Git 덮어쓰기"
-date:   2017-12-18
+date:   2017-12-23
 excerpt: ""
+categories: tool
 ---
 
 `svn up` 하는것 처럼 

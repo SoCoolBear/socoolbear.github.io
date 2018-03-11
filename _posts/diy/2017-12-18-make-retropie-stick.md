@@ -4,6 +4,7 @@ title:  "Make Retropie stick"
 date:   2017-12-18
 excerpt: "Retropie 조이스틱 제작과정을 정리한 포스트입니다."
 image: "/images/make-retropie-stick/finish.jpg"
+categories: diy
 ---
 
 ## 시작배경

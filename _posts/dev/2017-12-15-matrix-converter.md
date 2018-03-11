@@ -1,3 +1,12 @@
+---
+layout: post
+title:  "String Matix Converter - with composer"
+date:   2017-12-18
+excerpt: "Tab 으로 구분된 문자열 매트릭스를 Json 매티릭스로 변환/역변환 해주는 composer 기반 lib 입니다."
+categories: dev
+tags : [dev, php, composer]
+---
+
 Tab 으로 구분된 문자열 매트릭스를 Json 매티릭스로 변환/역변환 해주는
 composer 기반 lib 입니다.
 
