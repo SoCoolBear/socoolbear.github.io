@@ -95,3 +95,7 @@ tags : [english, study]
 > 같은 상자 다른길  
 
 이미지와 기억 속으로 들어가 또다른 길로 나와라.
+
+*****
+### 출처 
+ 어떤 언어도 배울 수 있는 방법 - [링크](https://www.youtube.com/watch?v=y1f-YHw1uNs&t=755s)
