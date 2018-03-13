@@ -12,6 +12,7 @@ defaults:
     type: posts
   values:
     permalink: "/blog/:title/"
+    comments: true
     layout: post
     author:
 # Jekyll
