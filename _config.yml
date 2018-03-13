@@ -30,7 +30,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   default
+disqus_shortname:   https-socoolbear-github-io
 
 # Social
 analytics-id:       "socoolbear"
