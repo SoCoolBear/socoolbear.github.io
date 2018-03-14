@@ -15,28 +15,23 @@ USB 케이블을 통한 연결이 가능합니다.
 ## 시작배경
 ----
 IoT와 C언어 대한 친밀도 강화를 목적으로 해당 포스트를 시작하게 됬습니다.
-
 게임을 하는것보다, 만드는 과정이 어떤 식으로든 제 삶의 디테일에 도움이 될것을 확신했습니다.
-
 만들다가 든 생각인데 범용으로 쓸수 있는  bluetooth 조이스틱이 없는거 같더라구요.
-
 그래서 그부분도 준비해뒀습니다.  곧 포스팅 될 예정입니다.ㅎ
-
 그러니까 왜 만들었냐고 묻지 마세요.. 여기까지만 할거면 그냥 시중에 파는거 쓰시는게 더 좋아요...
 
 ## 재료 및 공구
+----
 - 하우징 (본체), Arcade Stick , 버튼, 전동드릴, 기타 기본적인 공구들 ..
 - Raspberry Pi 및 기타
 - USB PC Arcade Interface
 
 ## 작업과정
 ----
-
-### Retro Pie 구축 
 - 해외 직구 ( 배송비 비싸니 한방에 pi 3, zero 등.. 일괄 구매  
 ![Retro Pie](/images/make-retropie-stick/retropie_starter_kit.png)
 
-- 다양한 컨트롤러 구매 및 장착 ( SNES , PS3 Controller , Xbox pad 등.. )
+- Retro Pie 구축 & 다양한 컨트롤러 구매 및 장착 ( SNES , PS3 Controller , Xbox pad 등.. )
 ![snes2](/images/make-retropie-stick/snes2.JPG)
 
 - 하우징 & 스틱 & USB  젬마 부착
