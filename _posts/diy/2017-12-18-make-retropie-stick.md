@@ -8,7 +8,9 @@ categories: diy
 ---
 
 ## Features
-이식성을 높이기 위해 `Jamma` 를 장착하여 USB 케이블을 통한 연결이 가능 하도록 처리 하였습니다.
+----
+`USB PC Arcade Interface` 를 장착하여 이식성을 높였습니다.
+USB 케이블을 통한 연결이 가능합니다.
 
 ## 시작배경
 ----
