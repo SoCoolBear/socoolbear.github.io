@@ -41,7 +41,8 @@ IoT와 C언어 대한 친밀도 강화를 목적으로 해당 포스트를 시�
 ![Husing](/images/make-retropie-stick/husing.JPG)
 
 - 젠더 연결... 은 사진을 안찍어 놯서 youtube 링크로 대신 할께요.
- [USB PC Arcade Interface](https://ko.aliexpress.com/item/Arcade-Game-Controller-USB-Interface-PCB-For-2-Player-PC-For-Jamma-Keyboard-USB-Encoder-Board/32795566984.html?spm=a2g0s.9042311.0.0.c1G8uC)
+
+   [USB PC Arcade Interface](https://ko.aliexpress.com/item/Arcade-Game-Controller-USB-Interface-PCB-For-2-Player-PC-For-Jamma-Keyboard-USB-Encoder-Board/32795566984.html?spm=a2g0s.9042311.0.0.c1G8uC)
 
 ## 결과물
 ----
@@ -58,9 +59,9 @@ IoT와 C언어 대한 친밀도 강화를 목적으로 해당 포스트를 시�
 
 ## Conclusion
 ```
-- 안하는거 보단 뭐라도 하는게 낳다!
+- 안하는거 보단 뭐라도 하는게 낫다!
 - 이왕 만드는거 쓸수 있게끔 만들어야 할맛이 난다!
-- 여기까지만 할꺼면 안하는게 낳다!
+- 여기까지만 할꺼면 안하는게 낫다!
 ```
 
 ## Referrer Link
