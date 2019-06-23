@@ -84,6 +84,7 @@ DEPENDENCIES
   jekyll-gist
   jekyll-mentions
   jekyll-paginate
+  jekyll-sass-converter
   jekyll-sitemap
 
 BUNDLED WITH
